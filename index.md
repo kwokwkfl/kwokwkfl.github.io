@@ -3,6 +3,18 @@
 You can use the [editor on GitHub](https://github.com/kwokwkfl/kwokwkfl.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Machine Learning
+* (P) Predicting Credit card approvals - DC_Predicting-Credit-Card-Approvals
+
+### Deep Learning
+* (P) Fake News - DL-FakeNews
+* (P) Facial Expression - DL-facial-expressions
+* (p) Handwriting Recognition - DL-Handwriting-recognition
+
+
+### Other 
+* (P) NYC_Restaurants
+* (R) Titanic - Titanic_first.R
 
 ### Markdown
 
