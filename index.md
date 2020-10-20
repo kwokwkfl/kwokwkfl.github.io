@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Deep Learning
 * (P) Fake News - DL-FakeNews
 * (P) Facial Expression - DL-facial-expressions
-* (p) Handwriting Recognition - DL-Handwriting-recognition
+* (P) Handwriting Recognition - DL-Handwriting-recognition
 
 
 ### Other 
