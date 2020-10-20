@@ -9,6 +9,7 @@ You can use the [editor on GitHub](https://github.com/kwokwkfl/kwokwkfl.github.i
 * (P) Fake News - DL-FakeNews
 * (P) Facial Expression - DL-facial-expressions
 * (P) Handwriting Recognition - DL-Handwriting-recognition
+* (P) DL-Traffic-Signs-Recognition
 
 ### Other 
 * (P) NYC_Restaurants
